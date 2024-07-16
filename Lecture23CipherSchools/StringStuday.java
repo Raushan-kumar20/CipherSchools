@@ -85,13 +85,13 @@ public class StringStudy{
     System.out.println(Index of 'e' in : " +name+"is: "+index);
       
     int index2 = name.indexOf('E');
-    System.out.println(Index of 'E' in : " +name+"is: "+index2);
+    System.out.println("Index of 'E' in : " +name+"is: "+index2);
 
     int index3 = name.indexOf('School');
-    System.out.println(Index of School in : " +name+"is: "+index3);
+    System.out.println("Index of School in : " +name+"is: "+index3);
 
     int index4 = name.indexOf('o',10);
-    System.out.println(Index of 'o' in : " +name+"is: "+index4);
+    System.out.println("Index of 'o' in : " +name+"is: "+index4);
     int indexOfo=0;
 
     //while(indexOfo != -1)
