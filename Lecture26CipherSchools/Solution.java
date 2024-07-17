@@ -1,6 +1,6 @@
 class Solution{
   static int masimumSUmSUbarray(int K, ArrayList<Interger> Arr, int N){
-    int max = Integer.MIN_VALUE;
+    //int max = Integer.MIN_VALUE;
     // for(int i=0;i<=N-K; i++)
     //   {
     //     int sum=0;
