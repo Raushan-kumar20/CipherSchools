@@ -1,0 +1,4 @@
+Instantiation:-In Java, instantiation mean to call the constructor of 
+a class that creates an instance or object of the type of that class. 
+In other words, creating an object of the class is called instantiation. 
+It occupies the initial memory for the object and returns a reference.
